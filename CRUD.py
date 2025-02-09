@@ -21,7 +21,7 @@ session = Session()
 # session.add(os_1)
 # session.commit()
 
-# # Добавляем brands_name
+# # Добавляем brands_name test
 # session_insert_value = SessionLocal()
 # brand_1 = Brand(brand_name = "Apple")
 # brand_2 = Brand(brand_name = "Xiaomi")
