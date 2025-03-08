@@ -18,7 +18,7 @@ Base = declarative_base()
 
 
 
-# Код для создания БД в PostgreSQL
+# # Код для создания БД в PostgreSQL
 # import psycopg2
 # from psycopg2.extensions import ISOLATION_LEVEL_AUTOCOMMIT
 #
@@ -26,7 +26,7 @@ Base = declarative_base()
 # connection.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
 #
 # cursor=connection.cursor()
-# sql_create_database = cursor.execute('CREATE DATABASE "Tele-6"')
+# sql_create_database = cursor.execute('CREATE DATABASE "Tele-4"')
 #
 # cursor.close()
 # connection.close()
